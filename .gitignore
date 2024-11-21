@@ -1,0 +1,50 @@
+# Unity generated files
+[Tt]emp/
+[Tt]empCache/
+[Ll]ibrary/
+[Ll]og/
+[Mm]emoryCaptures/
+obj/
+[Ll]ogs/
+
+# User-specific files
+.idea/
+.vscode/
+
+# Build results
+build/
+Build/
+builds/
+bin/
+
+# Uncomment this if you have authentication/username files that you don’t want in the repo
+# .userprefs
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Unity crash reports
+_crash/
+
+# Unity package manager directories
+[Pp]ackages/
+
+# Uncomment if you have specific platform-related ignores (e.g., Android or iOS)
+# .gradle/
+# .vscode/
+
+# VSCode settings
+.vscode/
+
+# JetBrains Rider settings
+.idea/
+
+# MacOS specific files
+*.swp
